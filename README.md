@@ -38,6 +38,8 @@ This README provides instructions on how to deploy the Flask application and Mon
    ```
    minikube service flask-app
    ```
+   ![image](https://github.com/user-attachments/assets/7e4add01-3f93-4375-940a-6ab5b213b0ba)
+
 
 ## DNS Resolution in Kubernetes
 
